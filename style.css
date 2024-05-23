@@ -12,8 +12,8 @@ body{
 }
 
 header, footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #da185f;
+    color: #fc5497de;
     text-align: center;
     padding: 10px 0;
 }
@@ -27,6 +27,6 @@ h1 {
 }
 
 p {
-    color: #666;
+    color: #f02644e4;
     line-height: 1.6;
 }
